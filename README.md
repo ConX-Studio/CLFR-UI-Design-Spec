@@ -4,8 +4,6 @@ UI Design Specification V2
 
 **All UI must work on both PC and mobile, and adapt to the screen size.**
 
-We want a toned down color scheme similar to our current, the UI should not take attention away from the gameplay. Some elements like purchase buttons etc. can be more vibrant if we wish to attract the attention of the player.
-
 This image is a general reference to the sort of semi-futuristic UI we want (this one was a WIP loadout selection, and some stuff isn't right): ![Reference UI](/designThemeish.png)
 
 **All objects & instances should be ordered and named somewhat properly, so that is simple for us to implement this UI via code.**
