@@ -180,3 +180,8 @@ When a player has a XP or cash booster active, it should also show in a special 
 The current kill feed for weapons is a slight step in the right direction, but it's far from perfect.
 
 ![Killfeed](/killfeed.png)
+
+# Tutorial
+We need a tutorial UI, I have drawn this beautiful example. It doesn't have to look like this, all we need is: text, character image spot, next button, skip button.
+
+![Tutorial](/tutorial.png)
