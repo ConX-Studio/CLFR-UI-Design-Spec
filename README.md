@@ -182,6 +182,6 @@ The current kill feed for weapons is a slight step in the right direction, but i
 ![Killfeed](/killfeed.png)
 
 # Tutorial
-We need a tutorial UI, I have drawn this beautiful example. It doesn't have to look like this, all we need is: text, character image spot, next button, skip button.
+We need a tutorial UI, this is the current one, we need skip and next buttons:
 
 ![Tutorial](/tutorial.png)
